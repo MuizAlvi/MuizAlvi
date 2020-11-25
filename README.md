@@ -41,15 +41,15 @@
 <h2 align="Center">Social Handles: </h2>
 <p align="Center">
    <a href="https://www.facebook.com/muiz.alvi.10">
-    <img src="https://img.shields.io/badge/Facebook-MuizAlvi-darkblue">
+    <img src="https://img.shields.io/badge/Facebook-MuizAlvi-blue">
   </a>
    <a href="https://www.linkedin.com/in/muiz-alvi-a85a74170/">
-    <img src="https://img.shields.io/badge/Linkedin-MuizAlvi-lightgreen">
+    <img src="https://img.shields.io/badge/Linkedin-MuizAlvi-yellow">
   </a>
    <a href="https://www.twitter.com/muizalvi/">
     <img src="https://img.shields.io/badge/Twitter-MuizAlvi-lightblue">
-  <!-- </a>
-   <a href="https://dev.to/muizalvi">
+  </a> 
+   <!-- <a href="https://dev.to/muizalvi">
     <img src="https://img.shields.io/badge/Blogs-MuizAlvi-black">
   </a> -->
 </p>

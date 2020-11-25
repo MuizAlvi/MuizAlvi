@@ -1,34 +1,56 @@
-## Hello there! :raised_hand:
+## Hello there!
 
-<!-- [Insert intro here] -->
+     - I Hope you're doing fine and keeping safe
+     - Please feel free to make use of the open source code available on my profile
+     - The following is a list of some basic information about me if you're interested
 
-<!-- [bio] -->
-
-<h4 align="left">Social Handles: </h4>
-<p align="center">
-
+</br>
+<h2 align="Center">Interests: </h2>
+<p align="Center">
+   Machine Learning 🖥️ </br>
+   Deep Learning 🧠 </br>
+   Artificial Intelligence 🤖 </br>
+   Computer Vision 👁️ </br>
+   Cloud Technologies ☁️ </br>
+</p>
+</br>
+<h2 align="Center">Education: </h2>
+<p align="Center">
+   Bachelors in Electrical Engineering at [NUST](https://nust.edu.pk/) </br>
+</p>
+</br>
+<h2 align="Center">Work: </h2>
+<p align="Center">
+   Student Learn Ambassador at [Microsoft](https://www.microsoft.com/) </br>
+   Vice President at [ACM NUST Student Chapter](https://www.facebook.com/NUST.ACM) </br>
+   R&D Intern at Sigma/EEG Lab, [NUST](https://nust.edu.pk/) </br>
+</p>
+</br>
+<h2 align="Center">About: </h2>
+<p align="Center">
+   A technology enthusiast who is proficient in code and has experience in managing community lead events. I am a third year student pursuing bachelors in Electrical Engineering at the National University of Sciences and Technology in Islamabad, Pakistan. Despite my field focusing mainly on hardware, I take immense interest in software related technologies. I wish to use my knowledge, experience and resources to further improve the local developer community as well as help students on their journey of becoming better developers. All while having fun and growing in the process 🥂
+</p>
+</br>
+<h2 align="Center">Github Profile: </h2>
+<p align="Center" >
+  <a href="https://github.com/anuraghazra/github-readme-stats"> 
+    <img  src="https://github-readme-stats.vercel.app/api?username=MuizAlvi&&show_icons=true"/>
+  </a>
+</p>
+</br>
+<h2 align="Center">Social Handles: </h2>
+<p align="Center">
    <a href="https://www.facebook.com/muiz.alvi.10">
-    <img src="https://img.shields.io/badge/Facebook-MuizAlvi-blue">
+    <img src="https://img.shields.io/badge/Facebook-MuizAlvi-darkblue">
   </a>
-  
    <a href="https://www.linkedin.com/in/muiz-alvi-a85a74170/">
-    <img src="https://img.shields.io/badge/Linkedin-MuizAlvi-darkgreen">
+    <img src="https://img.shields.io/badge/Linkedin-MuizAlvi-lightgreen">
   </a>
-  
    <a href="https://www.twitter.com/muizalvi/">
     <img src="https://img.shields.io/badge/Twitter-MuizAlvi-lightblue">
   </a>
-
-   <a href="https://www.hackerrank.com/muizalvi">
-    <img src="https://img.shields.io/badge/Hackerrank-MuizAlvi-lightgreen">
-  </a>
-</p>
-
-<!-- Statistics -->
-
-<p align="center" >
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=MuizAlvi&&show_icons=true"/>
+   <a href="https://dev.to/muizalvi/muizalvi">
+    <img src="https://img.shields.io/badge/Blogs-MuizAlvi-black">
   </a>
 </p>
 

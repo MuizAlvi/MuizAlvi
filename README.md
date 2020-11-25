@@ -1,9 +1,9 @@
 ## Hello there!
-
+<pre>
      - I Hope you're doing fine and keeping safe
      - Please feel free to make use of the open source code available on my profile
      - The following is a list of some basic information about me if you're interested
-
+</pre>
 </br>
 <h2 align="Center">Interests: </h2>
 <p align="Center">
@@ -16,14 +16,14 @@
 </br>
 <h2 align="Center">Education: </h2>
 <p align="Center">
-   Bachelors in Electrical Engineering at [NUST](https://nust.edu.pk/) </br>
+   Bachelors in Electrical Engineering at <a href="https://nust.edu.pk">NUST</a></br>
 </p>
 </br>
 <h2 align="Center">Work: </h2>
 <p align="Center">
-   Student Learn Ambassador at [Microsoft](https://www.microsoft.com/) </br>
-   Vice President at [ACM NUST Student Chapter](https://www.facebook.com/NUST.ACM) </br>
-   R&D Intern at Sigma/EEG Lab, [NUST](https://nust.edu.pk/) </br>
+   Student Learn Ambassador at <a href="https://www.microsoft.com">Microsoft</a></br>
+   Vice President at <a href="https://www.facebook.com/NUST.ACM">ACM NUST Student Chapter</a></br>
+   R&D Intern at Sigma/EEG Lab, <a href="https://nust.edu.pk">NUST</a></br>
 </p>
 </br>
 <h2 align="Center">About: </h2>
@@ -48,10 +48,10 @@
   </a>
    <a href="https://www.twitter.com/muizalvi/">
     <img src="https://img.shields.io/badge/Twitter-MuizAlvi-lightblue">
-  </a>
-   <a href="https://dev.to/muizalvi/muizalvi">
+  <!-- </a>
+   <a href="https://dev.to/muizalvi">
     <img src="https://img.shields.io/badge/Blogs-MuizAlvi-black">
-  </a>
+  </a> -->
 </p>
 
 <!--

@@ -21,7 +21,7 @@
 </br>
 <h2 align="Center">Work: </h2>
 <p align="Center">
-   Student Learn Ambassador at <a href="https://www.microsoft.com">Microsoft</a></br>
+   Learn Student Ambassador at <a href="https://www.microsoft.com">Microsoft</a></br>
    Vice President at <a href="https://www.facebook.com/NUST.ACM">ACM NUST Student Chapter</a></br>
    R&D Intern at Sigma/EEG Lab, <a href="https://nust.edu.pk">NUST</a></br>
 </p>
@@ -34,7 +34,7 @@
 <h2 align="Center">Github Profile: </h2>
 <p align="Center" >
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=MuizAlvi&&show_icons=true"/>
+    <img  src="https://github-readme-stats.vercel.app/api?username=MuizAlvi&show_icons=true"/>
   </a>
 </p>
 </br>

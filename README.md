@@ -49,9 +49,9 @@
    <a href="https://www.twitter.com/muizalvi/">
     <img src="https://img.shields.io/badge/Twitter-MuizAlvi-lightblue">
   </a> 
-   <!-- <a href="https://dev.to/muizalvi">
+   <a href="https://dev.to/muizalvi">
     <img src="https://img.shields.io/badge/Blogs-MuizAlvi-black">
-  </a> -->
+  </a>
 </p>
 
 <!--

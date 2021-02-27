@@ -21,7 +21,7 @@
 </br>
 <h2 align="Center">Work: </h2>
 <p align="Center">
-   Learn Student Ambassador at <a href="https://www.microsoft.com">Microsoft</a></br>
+   Student Ambassador at <a href="https://docs.microsoft.com/en-us/learn/">Microsoft Learn</a></br>
    Vice President at <a href="https://www.facebook.com/NUST.ACM">ACM NUST Student Chapter</a></br>
    R&D Intern at Sigma/EEG Lab, <a href="https://nust.edu.pk">NUST</a></br>
 </p>

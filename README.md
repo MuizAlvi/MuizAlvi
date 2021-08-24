@@ -21,14 +21,14 @@
 </br>
 <h2 align="Center">Work: </h2>
 <p align="Center">
+   President at <a href="https://www.facebook.com/NUST.ACM">ACM NUST Student Chapter</a></br>
    Student Ambassador at <a href="https://docs.microsoft.com/en-us/learn/">Microsoft Learn</a></br>
-   Vice President at <a href="https://www.facebook.com/NUST.ACM">ACM NUST Student Chapter</a></br>
-   R&D Intern at Sigma/EEG Lab, <a href="https://nust.edu.pk">NUST</a></br>
+   R&D Intern at <a href="https://tukl.seecs.nust.edu.pk/">TUKL-SEECS</a></br>
 </p>
 </br>
 <h2 align="Center">About: </h2>
 <p align="Center">
-   A technology enthusiast who is proficient in code and has experience in managing community lead events. I am a third year student pursuing bachelors in Electrical Engineering at the National University of Sciences and Technology in Islamabad, Pakistan. Despite my field focusing mainly on hardware, I take immense interest in software related technologies. I wish to use my knowledge, experience and resources to further improve the local developer community as well as help students on their journey of becoming better developers. All while having fun and growing in the process 🥂
+   A technology enthusiast who is proficient in code and has experience in managing community lead events. I am a final year student pursuing bachelors in Electrical Engineering at the National University of Sciences and Technology in Islamabad, Pakistan. Despite my field focusing mainly on hardware, I take immense interest in software related technologies. I wish to use my knowledge, experience and resources to further improve the local developer community as well as help students on their journey of becoming better developers. All while having fun and growing in the process 🥂
 </p>
 </br>
 <h2 align="Center">Github Profile: </h2>
